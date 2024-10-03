@@ -35,10 +35,8 @@ The model is trained using SGD with specified hyperparameters. The training func
 
 ## Installation
 To run the code, you need to install few basic dependencies.
->most of the commands can be isntalled using pip.
+>most of the commands can be installed using pip.
 >To install Pip follow this [link](https://pip.pypa.io/en/stable/installation/).
-```
-> For machine learning tasks we have used torch. To install torch we first create a virtual environment.
 
 ```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
